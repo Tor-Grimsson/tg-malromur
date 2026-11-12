@@ -1,0 +1,81 @@
+{
+glyphname = semicolon;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (235,800);
+ref = period;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 345;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (206,714);
+ref = period;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 449;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (232,791);
+ref = period;
+}
+);
+width = 356;
+}
+);
+metricLeft = period;
+metricRight = "=|";
+unicode = 59;
+}

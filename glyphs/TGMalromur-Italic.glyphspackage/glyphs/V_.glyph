@@ -1,0 +1,183 @@
+{
+color = 1;
+glyphname = V;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,4);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,7);
+scale = (0.8,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1195,1280,l),
+(486,162,l),
+(524,193,l),
+(459,1280,l),
+(307,1280,l),
+(384,0,l),
+(424,0,l),
+(1235,1280,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1067;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,4);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,7);
+scale = (0.8,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1340,1280,l),
+(548,132,l),
+(766,422,l),
+(666,1280,l),
+(306,1280,l),
+(457,0,l),
+(497,0,l),
+(1380,1280,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1210;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,4);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,7);
+scale = (0.8,1);
+type = Corner;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1211,1280,l),
+(493,159,l),
+(551,218,l),
+(482,1280,l),
+(307,1280,l),
+(392,0,l),
+(432,0,l),
+(1251,1280,l)
+);
+}
+);
+width = 1083;
+}
+);
+metricLeft = "=-28";
+metricRight = "=-24";
+production = V;
+subCategory = "";
+unicode = 86;
+}

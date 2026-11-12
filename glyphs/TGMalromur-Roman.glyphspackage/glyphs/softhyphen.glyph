@@ -1,0 +1,39 @@
+{
+color = 6;
+glyphname = softhyphen;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = hyphen;
+}
+);
+width = 360;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+ref = hyphen;
+}
+);
+width = 360;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = hyphen;
+}
+);
+width = 360;
+}
+);
+unicode = 173;
+}

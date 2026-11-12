@@ -1,0 +1,111 @@
+{
+glyphname = B;
+kernLeft = H;
+kernRight = B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-264,0);
+ref = "_stem.UC-serif-2";
+},
+{
+pos = (136,0);
+ref = "_bowl.UC-B";
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1019;
+},
+{
+background = {
+shapes = (
+{
+pos = (-26,0);
+ref = H;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-74,0);
+ref = "_stem.UC-serif-2";
+},
+{
+pos = (326,0);
+ref = "_bowl.UC-B";
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1294;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+pos = (-243,0);
+ref = "_stem.UC-serif-2";
+},
+{
+pos = (157,0);
+ref = "_bowl.UC-B";
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1049;
+}
+);
+metricLeft = H;
+metricRight = "=72";
+unicode = 66;
+}

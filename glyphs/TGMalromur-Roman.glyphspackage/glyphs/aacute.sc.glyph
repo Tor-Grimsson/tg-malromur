@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = aacute.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (56,40);
+ref = acutecomb;
+}
+);
+width = 946;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (63,42);
+ref = acutecomb;
+}
+);
+width = 959;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (122,65);
+ref = acutecomb;
+}
+);
+width = 1065;
+}
+);
+}

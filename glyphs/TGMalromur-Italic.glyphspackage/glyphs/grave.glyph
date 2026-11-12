@@ -1,0 +1,40 @@
+{
+color = 6;
+glyphname = grave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (140,0);
+ref = gravecomb;
+}
+);
+width = 537;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (188,0);
+ref = gravecomb;
+}
+);
+width = 593;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+alignment = -1;
+pos = (145,0);
+ref = gravecomb;
+}
+);
+width = 543;
+}
+);
+unicode = 96;
+}

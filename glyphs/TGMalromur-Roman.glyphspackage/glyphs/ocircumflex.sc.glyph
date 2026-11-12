@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = ocircumflex.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (90,40);
+ref = circumflexcomb;
+}
+);
+width = 981;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (103,40);
+ref = circumflexcomb;
+}
+);
+width = 1007;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (211,44);
+ref = circumflexcomb;
+}
+);
+width = 1222;
+}
+);
+}

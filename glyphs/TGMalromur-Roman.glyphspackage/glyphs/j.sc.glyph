@@ -1,0 +1,182 @@
+{
+color = 6;
+glyphname = j.sc;
+kernLeft = J;
+kernRight = H;
+layers = (
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,4);
+scale = (-1.2,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,-315,o),
+(242,-116,o),
+(242,54,cs),
+(242,960,l),
+(106,960,l),
+(106,-84,ls),
+(106,-256,o),
+(47,-290,o),
+(-31,-290,c),
+(-31,-315,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+width = 82;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 434;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,4);
+scale = (-1.2,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,-316,o),
+(410,-44,o),
+(410,118,cs),
+(410,960,l),
+(106,960,l),
+(106,-146,ls),
+(106,-244,o),
+(63,-284,o),
+(17,-284,c),
+(17,-316,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+weight = -96;
+width = 82;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 592;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,4);
+scale = (-1.2,1);
+type = Corner;
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,-315,o),
+(260,-109,o),
+(260,61,cs),
+(260,960,l),
+(106,960,l),
+(106,-91,ls),
+(106,-255,o),
+(49,-289,o),
+(-26,-289,c),
+(-26,-315,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+weight = -12;
+width = 82;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 451;
+}
+);
+metricLeft = "=-48";
+metricRight = H;
+userData = {
+RMXScaler = {
+source = J;
+};
+};
+}

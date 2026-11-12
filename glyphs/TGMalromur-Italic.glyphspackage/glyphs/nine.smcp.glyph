@@ -1,0 +1,90 @@
+{
+glyphname = nine.smcp;
+kernLeft = zero;
+kernRight = zero;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (902,1080);
+ref = six.smcp;
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 80;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 856;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1055,1080);
+ref = six.smcp;
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 80;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1009;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (917,1080);
+ref = six.smcp;
+}
+);
+width = 871;
+}
+);
+metricLeft = "=|six";
+metricRight = "=|six";
+userData = {
+RMXScaler = {
+source = nine;
+};
+};
+}

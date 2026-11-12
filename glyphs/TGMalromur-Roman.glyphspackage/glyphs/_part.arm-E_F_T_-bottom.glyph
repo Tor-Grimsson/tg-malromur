@@ -1,0 +1,398 @@
+{
+export = 0;
+glyphname = "_part.arm-EFT-bottom";
+layers = (
+{
+anchors = (
+{
+name = _armbottom;
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+}
+);
+layerId = m01;
+partSelection = {
+Narrow = 1;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(800,0,l),
+(800,32,l),
+(200,32,l),
+(200,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _armbottom;
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+}
+);
+layerId = m002;
+partSelection = {
+Narrow = 1;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(820,0,l),
+(820,32,l),
+(200,32,l),
+(200,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _armbottom;
+pos = (200,0);
+}
+);
+associatedMasterId = m01;
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+}
+);
+layerId = "1261EB88-286B-417B-BBFA-E90322D8D932";
+name = Narrow;
+partSelection = {
+Narrow = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(624,0,l),
+(624,32,l),
+(200,32,l),
+(200,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _armbottom;
+pos = (200,0);
+}
+);
+associatedMasterId = m002;
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+}
+);
+layerId = "57A5B4EC-2998-476C-9A68-809A0491AB17";
+name = Narrow;
+partSelection = {
+Narrow = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(656,0,l),
+(656,32,l),
+(200,32,l),
+(200,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _armbottom;
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+partSelection = {
+Narrow = 1;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(802,0,l),
+(802,32,l),
+(200,32,l),
+(200,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _armbottom;
+pos = (200,0);
+}
+);
+associatedMasterId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+}
+);
+layerId = "92ED22CE-F65F-402B-B577-802F2DF3BF8D";
+name = Narrow;
+partSelection = {
+Narrow = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(628,0,l),
+(628,32,l),
+(200,32,l),
+(200,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+}
+);
+metricWidth = "=1200";
+partsSettings = (
+{
+bottomValue = 0;
+name = Narrow;
+topValue = 100;
+}
+);
+}

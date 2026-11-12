@@ -1,0 +1,213 @@
+{
+glyphname = four.smcp;
+kernLeft = zero;
+kernRight = zero;
+layers = (
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (2,3);
+scale = (1.4,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,0);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-19,292,l),
+(195,526,o),
+(653,824,o),
+(729,1088,c),
+(578,1088,l),
+(520,887,o),
+(151,510,o),
+(-40,292,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(655,279,l),
+(663,306,l),
+(-13,306,l),
+(-40,292,l),
+(-44,279,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(452,0,l),
+(645,670,l),
+(507,670,l),
+(314,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 80;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 777;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,0);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (2,3);
+scale = (1.4,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-20,290,l),
+(167,498,o),
+(840,824,o),
+(916,1088,c),
+(610,1088,l),
+(552,887,o),
+(119,463,o),
+(-41,290,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(812,279,l),
+(820,306,l),
+(-16,306,l),
+(-41,290,l),
+(-44,279,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(635,0,l),
+(817,636,l),
+(521,636,l),
+(340,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 70;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 952;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (2,3);
+scale = (1.4,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,0);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-19,292,l),
+(192,523,o),
+(674,824,o),
+(750,1088,c),
+(582,1088,l),
+(524,887,o),
+(147,505,o),
+(-40,292,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(672,279,l),
+(680,306,l),
+(-13,306,l),
+(-40,292,l),
+(-44,279,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(472,0,l),
+(664,666,l),
+(509,666,l),
+(317,0,l)
+);
+}
+);
+width = 796;
+}
+);
+metricLeft = four;
+metricRight = four;
+userData = {
+RMXScaler = {
+source = four;
+};
+};
+}

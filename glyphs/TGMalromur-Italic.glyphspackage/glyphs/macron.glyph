@@ -1,0 +1,40 @@
+{
+color = 6;
+glyphname = macron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-140,0);
+ref = macroncomb;
+}
+);
+width = 520;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-140,0);
+ref = macroncomb;
+}
+);
+width = 520;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+alignment = -1;
+pos = (-140,0);
+ref = macroncomb;
+}
+);
+width = 520;
+}
+);
+unicode = 175;
+}

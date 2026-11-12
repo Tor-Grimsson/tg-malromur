@@ -1,0 +1,193 @@
+{
+export = 0;
+glyphname = "_stem.UC-top";
+layers = (
+{
+anchors = (
+{
+name = "^exit";
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,400);
+},
+{
+angle = 90;
+pos = (600,400);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+scale = (-0.9,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(344,880,l),
+(344,1280,l),
+(200,1280,l),
+(200,880,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+},
+{
+anchors = (
+{
+name = "^exit";
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,400);
+},
+{
+angle = 90;
+pos = (600,400);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+scale = (-1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(544,840,l),
+(544,1280,l),
+(200,1280,l),
+(200,840,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+},
+{
+anchors = (
+{
+name = "^exit";
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,400);
+},
+{
+angle = 90;
+pos = (600,400);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+scale = (-0.9,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(366,876,l),
+(366,1280,l),
+(200,1280,l),
+(200,876,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+}
+);
+metricWidth = "=800";
+}

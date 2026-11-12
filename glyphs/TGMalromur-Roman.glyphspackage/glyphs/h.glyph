@@ -1,0 +1,120 @@
+{
+glyphname = h;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+piece = {
+Height = 0;
+};
+pos = (-314,0);
+ref = _part.stem.lc.hnmri;
+},
+{
+pos = (86,0);
+ref = _part.shoulder.lc;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 972;
+},
+{
+background = {
+shapes = (
+{
+pos = (-18,0);
+ref = b;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+piece = {
+Height = 0;
+};
+pos = (-154,0);
+ref = _part.stem.lc.hnmri;
+},
+{
+pos = (246,0);
+ref = _part.shoulder.lc;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1222;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+piece = {
+Height = 0;
+};
+pos = (-297,0);
+ref = _part.stem.lc.hnmri;
+},
+{
+pos = (103,0);
+ref = _part.shoulder.lc;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 999;
+}
+);
+metricLeft = n;
+metricRight = n;
+unicode = 104;
+}

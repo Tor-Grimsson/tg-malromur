@@ -1,0 +1,418 @@
+{
+category = "Stem-LC";
+color = 2;
+export = 0;
+glyphname = "_part.stem-LC-a";
+layers = (
+{
+anchors = (
+{
+name = connect;
+pos = (428,0);
+}
+);
+guides = (
+{
+angle = 74;
+locked = 1;
+pos = (200,600);
+},
+{
+locked = 1;
+pos = (0,344);
+},
+{
+angle = 74;
+locked = 1;
+pos = (692,920);
+},
+{
+angle = 74;
+locked = 1;
+pos = (1000,600);
+}
+);
+layerId = m01;
+partSelection = {
+Height = 1;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,189,ls),
+(446,65,o),
+(504,-20,o),
+(616,-20,cs),
+(765,-20,o),
+(883,146,o),
+(929,340,c),
+(897,340,l),
+(847,171,o),
+(741,40,o),
+(660,40,cs),
+(610,40,o),
+(593,103,o),
+(618,189,cs),
+(828,920,l),
+(692,920,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (428,0);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,600);
+},
+{
+angle = 74;
+pos = (1000,600);
+},
+{
+angle = 74;
+pos = (600,600);
+},
+{
+angle = 74;
+pos = (956,920);
+}
+);
+layerId = m002;
+partSelection = {
+Height = 1;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(504,266,ls),
+(447,68,o),
+(556,-20,o),
+(702,-20,cs),
+(910,-20,o),
+(1017,158,o),
+(1068,340,c),
+(1032,340,l),
+(989,194,o),
+(882,48,o),
+(818,48,cs),
+(778,48,o),
+(761,103,o),
+(786,189,cs),
+(996,920,l),
+(692,920,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (428,0);
+}
+);
+associatedMasterId = m01;
+guides = (
+{
+angle = 74;
+locked = 1;
+pos = (200,600);
+},
+{
+locked = 1;
+pos = (0,344);
+},
+{
+angle = 74;
+locked = 1;
+pos = (692,920);
+},
+{
+angle = 74;
+locked = 1;
+pos = (1000,600);
+}
+);
+layerId = "EA842BB1-7407-4D40-87DC-609C56663DA0";
+name = "Italic-Height";
+partSelection = {
+Height = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,189,ls),
+(446,65,o),
+(504,-24,o),
+(616,-24,cs),
+(765,-24,o),
+(883,150,o),
+(929,344,c),
+(897,344,l),
+(847,175,o),
+(741,39,o),
+(660,39,cs),
+(610,39,o),
+(593,103,o),
+(618,189,cs),
+(1011,1560,l),
+(875,1560,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (428,0);
+}
+);
+associatedMasterId = m002;
+guides = (
+{
+angle = 74;
+pos = (200,600);
+},
+{
+angle = 74;
+pos = (1000,600);
+},
+{
+angle = 74;
+pos = (600,600);
+},
+{
+angle = 74;
+pos = (956,920);
+}
+);
+layerId = "B02C79D2-4C7B-49F7-8BAE-16C69D95ED93";
+name = "Italic-Height";
+partSelection = {
+Height = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(504,266,ls),
+(446,65,o),
+(534,-24,o),
+(704,-24,cs),
+(872,-24,o),
+(1005,150,o),
+(1056,342,c),
+(1024,342,l),
+(975,175,o),
+(869,39,o),
+(788,39,cs),
+(738,39,o),
+(721,103,o),
+(746,189,cs),
+(1139,1560,l),
+(875,1560,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (428,0);
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+partSelection = {
+Height = 1;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(484,197,ls),
+(446,65,o),
+(510,-20,o),
+(625,-20,cs),
+(781,-20,o),
+(898,147,o),
+(944,340,c),
+(912,340,l),
+(863,174,o),
+(757,41,o),
+(677,41,cs),
+(628,41,o),
+(611,103,o),
+(636,189,cs),
+(846,920,l),
+(692,920,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (428,0);
+}
+);
+associatedMasterId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+guides = (
+{
+angle = 74;
+locked = 1;
+pos = (200,600);
+},
+{
+locked = 1;
+pos = (0,344);
+},
+{
+angle = 74;
+locked = 1;
+pos = (692,920);
+},
+{
+angle = 74;
+locked = 1;
+pos = (1000,600);
+}
+);
+layerId = "E4871A8A-EBDA-4536-BA1C-8FD1EBFE76A7";
+name = "Italic-Height";
+partSelection = {
+Height = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(484,197,ls),
+(446,65,o),
+(507,-24,o),
+(626,-24,cs),
+(777,-24,o),
+(896,150,o),
+(943,344,c),
+(911,344,l),
+(861,175,o),
+(755,39,o),
+(674,39,cs),
+(624,39,o),
+(607,103,o),
+(632,189,cs),
+(1025,1560,l),
+(875,1560,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+}
+);
+metricWidth = "=1200";
+partsSettings = (
+{
+bottomValue = 0;
+name = Height;
+topValue = 100;
+}
+);
+subCategory = "";
+}

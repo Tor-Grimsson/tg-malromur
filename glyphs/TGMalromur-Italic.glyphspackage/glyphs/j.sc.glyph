@@ -1,0 +1,172 @@
+{
+color = 6;
+glyphname = j.sc;
+kernLeft = J;
+kernRight = H;
+layers = (
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-1.2,1);
+type = Corner;
+},
+{
+name = "_cap.tail-descender";
+options = 10;
+origin = (0,3);
+scale = (0.97794,1);
+type = Cap;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,1,l),
+(412,960,l),
+(276,960,l),
+(4,1,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+width = 82;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 385;
+},
+{
+hints = (
+{
+name = "_cap.tail-descender";
+options = 10;
+origin = (0,3);
+scale = (0.87829,1);
+type = Cap;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-1.2,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(353,0,l),
+(628,960,l),
+(324,960,l),
+(86,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+weight = -96;
+width = 82;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 601;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-1.2,1);
+type = Corner;
+},
+{
+name = "_cap.tail-descender";
+options = 10;
+origin = (0,3);
+scale = (0.95455,1);
+type = Cap;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(157,1,l),
+(432,960,l),
+(278,960,l),
+(10,1,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+weight = -12;
+width = 82;
+};
+};
+width = 405;
+}
+);
+metricLeft = "=-196";
+metricRight = "=-12";
+subCategory = "";
+userData = {
+RMXScaler = {
+source = J;
+};
+};
+}

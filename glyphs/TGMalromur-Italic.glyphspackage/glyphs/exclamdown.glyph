@@ -1,0 +1,75 @@
+{
+glyphname = exclamdown;
+kernLeft = exclamdown;
+kernRight = exclamdown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (469,1384);
+ref = exclam;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 336;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (577,1384);
+ref = exclam;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 443;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+angle = 180;
+pos = (477,1384);
+ref = exclam;
+}
+);
+width = 344;
+}
+);
+metricLeft = exclam;
+metricRight = exclam;
+unicode = 161;
+}

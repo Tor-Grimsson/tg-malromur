@@ -1,0 +1,306 @@
+{
+color = 7;
+export = 0;
+glyphname = "_stem.UC-H";
+layers = (
+{
+anchors = (
+{
+name = "^entry";
+pos = (200,0);
+},
+{
+name = "^exit";
+pos = (816,0);
+},
+{
+name = _stem;
+pos = (452,880);
+},
+{
+name = stem;
+pos = (931,400);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,0);
+},
+{
+angle = 74;
+pos = (1400,0);
+},
+{
+angle = 74;
+pos = (600,0);
+},
+{
+angle = 74;
+pos = (1000,0);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (1,1);
+scale = (-1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,2);
+scale = (0.9,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (2,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,2);
+scale = (0.9,-1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(484,656,l),
+(1052,656,l),
+(1061,688,l),
+(493,688,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1075,400,l),
+(1327,1280,l),
+(1183,1280,l),
+(931,400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(452,880,l),
+(200,0,l),
+(344,0,l),
+(596,880,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1600;
+},
+{
+anchors = (
+{
+name = "^entry";
+pos = (200,0);
+},
+{
+name = "^exit";
+pos = (940,0);
+},
+{
+name = _stem;
+pos = (441,840);
+},
+{
+name = stem;
+pos = (1066,440);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,0);
+},
+{
+angle = 74;
+pos = (1400,0);
+},
+{
+angle = 74;
+pos = (600,0);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (1,1);
+scale = (-1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,2);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (2,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,2);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(662,656,l),
+(1230,656,l),
+(1239,688,l),
+(671,688,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1410,440,l),
+(1651,1280,l),
+(1307,1280,l),
+(1066,440,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(441,840,l),
+(200,0,l),
+(544,0,l),
+(785,840,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1600;
+},
+{
+anchors = (
+{
+name = "^entry";
+pos = (200,0);
+},
+{
+name = "^exit";
+pos = (830,0);
+},
+{
+name = _stem;
+pos = (451,876);
+},
+{
+name = stem;
+pos = (946,404);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (1,1);
+scale = (-1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,2);
+scale = (0.9,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (2,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,2);
+scale = (0.9,-1);
+type = Corner;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(504,656,l),
+(1072,656,l),
+(1081,688,l),
+(513,688,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1112,404,l),
+(1363,1280,l),
+(1197,1280,l),
+(946,404,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(451,876,l),
+(200,0,l),
+(366,0,l),
+(617,876,l)
+);
+}
+);
+width = 1600;
+}
+);
+metricWidth = "=1600";
+}

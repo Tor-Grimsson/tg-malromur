@@ -1,0 +1,72 @@
+{
+color = 6;
+glyphname = caroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (400,1320);
+},
+{
+name = top;
+pos = (400,1620);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,2980);
+ref = circumflexcomb.case;
+scale = (1,-1);
+}
+);
+width = 800;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (400,1320);
+},
+{
+name = top;
+pos = (400,1620);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (0,2991);
+ref = circumflexcomb.case;
+scale = (1,-1);
+}
+);
+width = 800;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (400,1320);
+},
+{
+name = top;
+pos = (400,1620);
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+alignment = -1;
+pos = (0,2981);
+ref = circumflexcomb.case;
+scale = (1,-1);
+}
+);
+width = 800;
+}
+);
+}

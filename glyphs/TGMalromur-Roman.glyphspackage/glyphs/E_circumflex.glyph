@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = Ecircumflex;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (120,0);
+ref = circumflexcomb.case;
+}
+);
+width = 1019;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (128,0);
+ref = circumflexcomb.case;
+}
+);
+width = 1044;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (192,0);
+ref = circumflexcomb.case;
+}
+);
+width = 1290;
+}
+);
+unicode = 202;
+}

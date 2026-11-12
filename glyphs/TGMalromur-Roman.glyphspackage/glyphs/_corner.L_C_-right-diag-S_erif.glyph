@@ -1,0 +1,196 @@
+{
+export = 0;
+glyphname = "_corner.LC-right-diag-Serif";
+layers = (
+{
+anchors = (
+{
+name = left;
+pos = (373,67);
+},
+{
+name = origin;
+pos = (437,0);
+},
+{
+name = right;
+pos = (465,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (100,400);
+},
+{
+angle = 90;
+pos = (700,400);
+},
+{
+angle = 90;
+pos = (400,400);
+},
+{
+angle = -47;
+pos = (400,40);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(400,40,l),
+(248,40,l),
+(248,0,l),
+(357,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+},
+{
+anchors = (
+{
+name = left;
+pos = (373,67);
+},
+{
+name = origin;
+pos = (437,0);
+},
+{
+name = right;
+pos = (465,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (100,400);
+},
+{
+angle = 90;
+pos = (700,400);
+},
+{
+angle = 90;
+pos = (400,400);
+},
+{
+angle = -47;
+pos = (400,40);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 0;
+nodes = (
+(400,40,l),
+(248,40,l),
+(248,0,l),
+(357,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+},
+{
+anchors = (
+{
+name = left;
+pos = (373,67);
+},
+{
+name = origin;
+pos = (437,0);
+},
+{
+name = right;
+pos = (465,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (100,400);
+},
+{
+angle = 90;
+pos = (700,400);
+},
+{
+angle = 90;
+pos = (400,400);
+},
+{
+angle = -47;
+pos = (400,40);
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+closed = 0;
+nodes = (
+(400,40,l),
+(248,40,l),
+(248,0,l),
+(357,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+}
+);
+metricWidth = "=800";
+}

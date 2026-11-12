@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = scaron;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-18,0);
+ref = caroncomb;
+}
+);
+width = 772;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-10,0);
+ref = caroncomb;
+}
+);
+width = 788;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (54,0);
+ref = caroncomb;
+}
+);
+width = 917;
+}
+);
+unicode = 353;
+}

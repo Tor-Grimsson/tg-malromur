@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = ordfeminine;
+kernLeft = sup;
+kernRight = sup;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (20,652);
+ref = a;
+scale = (0.62,0.62);
+}
+);
+width = 626;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+pos = (20,652);
+ref = a;
+scale = (0.62,0.62);
+}
+);
+width = 640;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (20,652);
+ref = a;
+scale = (0.62,0.62);
+}
+);
+width = 756;
+}
+);
+unicode = 170;
+}

@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = Egrave;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (472,0);
+ref = gravecomb.case;
+}
+);
+width = 1255;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (334,0);
+ref = gravecomb.case;
+}
+);
+width = 982;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (349,0);
+ref = gravecomb.case;
+}
+);
+width = 1005;
+}
+);
+unicode = 200;
+}

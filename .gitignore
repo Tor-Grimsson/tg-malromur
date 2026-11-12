@@ -1,0 +1,15 @@
+# Local scratch and parked files
+_tmp/
+
+# Glyphs autosaves and backups
+*(Autosaved)*
+Backup/
+
+# Raw pre-build export
+export/raw/
+
+# Printed proofs are rebuilt from tools/kol-specimen
+specimen/*.pdf
+
+# OS junk
+.DS_Store

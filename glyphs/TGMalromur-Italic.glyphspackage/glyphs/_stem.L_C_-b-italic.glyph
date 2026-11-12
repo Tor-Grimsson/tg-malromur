@@ -1,0 +1,188 @@
+{
+category = "Stem-LC";
+color = 2;
+export = 0;
+glyphname = "_stem.LC-b-italic";
+layers = (
+{
+anchors = (
+{
+name = connect;
+pos = (543,400);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,600);
+},
+{
+angle = 74;
+pos = (1000,600);
+},
+{
+pos = (0,360);
+},
+{
+pos = (0,40);
+},
+{
+angle = 74;
+pos = (428,0);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x3120bddb0;
+};
+closed = 1;
+nodes = (
+(543,400,l),
+(825,1384,l),
+(689,1384,l),
+(407,400,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (543,400);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,600);
+},
+{
+angle = 74;
+pos = (1000,600);
+},
+{
+angle = 74;
+pos = (600,600);
+},
+{
+pos = (0,360);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x3120bddb0;
+};
+closed = 1;
+nodes = (
+(543,400,l),
+(825,1384,l),
+(521,1384,l),
+(239,400,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (543,400);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-1,1);
+type = Corner;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x3120bddb0;
+};
+closed = 1;
+nodes = (
+(543,400,l),
+(825,1384,l),
+(671,1384,l),
+(389,400,l)
+);
+}
+);
+width = 1200;
+}
+);
+metricWidth = "=1200";
+partsSettings = (
+{
+bottomValue = 0;
+name = Height;
+topValue = 0;
+}
+);
+subCategory = "";
+}

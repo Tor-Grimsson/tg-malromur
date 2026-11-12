@@ -1,0 +1,75 @@
+{
+glyphname = questiondown;
+kernLeft = exclamdown;
+kernRight = exclamdown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (932,1384);
+ref = question;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 751;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (1042,1384);
+ref = question;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 858;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+angle = 180;
+pos = (945,1384);
+ref = question;
+}
+);
+width = 763;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 191;
+}

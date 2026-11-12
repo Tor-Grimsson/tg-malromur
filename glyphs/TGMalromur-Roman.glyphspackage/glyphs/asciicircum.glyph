@@ -1,0 +1,43 @@
+{
+color = 6;
+glyphname = asciicircum;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-112,-712);
+ref = circumflexcomb;
+scale = (1.5,1.5);
+}
+);
+width = 976;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+pos = (-103,-713);
+ref = circumflexcomb;
+scale = (1.5,1.5);
+}
+);
+width = 994;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-37,-722);
+ref = circumflexcomb;
+scale = (1.5,1.5);
+}
+);
+width = 1126;
+}
+);
+unicode = 94;
+}

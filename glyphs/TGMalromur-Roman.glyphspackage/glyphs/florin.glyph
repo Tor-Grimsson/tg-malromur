@@ -1,0 +1,42 @@
+{
+color = 6;
+glyphname = florin;
+kernLeft = florin;
+kernRight = florin;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (120,-360);
+ref = f;
+}
+);
+width = 642;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+pos = (120,-360);
+ref = f;
+}
+);
+width = 668;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (120,-360);
+ref = f;
+}
+);
+width = 877;
+}
+);
+unicode = 402;
+}

@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = ccedilla;
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (82,0);
+ref = cedillacomb;
+}
+);
+width = 944;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (86,0);
+ref = cedillacomb;
+}
+);
+width = 954;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (118,0);
+ref = cedillacomb;
+}
+);
+width = 1041;
+}
+);
+unicode = 231;
+}

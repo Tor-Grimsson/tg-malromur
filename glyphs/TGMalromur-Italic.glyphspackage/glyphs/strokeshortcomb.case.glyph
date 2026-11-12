@@ -1,0 +1,113 @@
+{
+glyphname = strokeshortcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _strokeshortcomb;
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(388,656,l),
+(948,656,l),
+(948,688,l),
+(388,688,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _strokeshortcomb;
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(388,656,l),
+(1108,656,l),
+(1108,688,l),
+(388,688,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _strokeshortcomb;
+pos = (200,0);
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(388,656,l),
+(966,656,l),
+(966,688,l),
+(388,688,l)
+);
+}
+);
+width = 1200;
+}
+);
+metricWidth = "=1200";
+}

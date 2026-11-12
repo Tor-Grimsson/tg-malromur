@@ -1,0 +1,87 @@
+{
+glyphname = endash;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,453,l),
+(680,453,l),
+(680,488,l),
+(40,488,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 714;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(38,445,l),
+(678,445,l),
+(678,488,l),
+(38,488,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 712;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,452,l),
+(680,452,l),
+(680,488,l),
+(40,488,l)
+);
+}
+);
+width = 714;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 8211;
+}

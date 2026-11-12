@@ -1,0 +1,194 @@
+{
+export = 0;
+glyphname = _part.stem.lc.top;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (528,1024);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x30436bf10;
+};
+closed = 1;
+nodes = (
+(600,1025,l),
+(600,1584,l),
+(568,1584,l),
+(320,1486,l),
+(320,1446,l),
+(419,1442,o),
+(456,1416,o),
+(456,1342,cs),
+(456,1025,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (528,1024);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x30436bf10;
+};
+closed = 1;
+nodes = (
+(600,1025,l),
+(600,1584,l),
+(568,1584,l),
+(320,1486,l),
+(320,1446,l),
+(419,1442,o),
+(456,1416,o),
+(456,1342,cs),
+(456,1025,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (528,1024);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (200,600);
+},
+{
+angle = 90;
+pos = (1000,600);
+},
+{
+angle = 90;
+pos = (600,600);
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x30436bf10;
+};
+closed = 1;
+nodes = (
+(600,1025,l),
+(600,1584,l),
+(568,1584,l),
+(320,1486,l),
+(320,1446,l),
+(419,1442,o),
+(456,1416,o),
+(456,1342,cs),
+(456,1025,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+}
+);
+metricWidth = "=1200";
+partsSettings = (
+{
+bottomValue = 0;
+name = Height;
+topValue = 0;
+}
+);
+}

@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = ocircumflex;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (178,0);
+ref = circumflexcomb;
+}
+);
+width = 864;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (301,4);
+ref = circumflexcomb;
+}
+);
+width = 1104;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (191,0);
+ref = circumflexcomb;
+}
+);
+width = 890;
+}
+);
+unicode = 244;
+}

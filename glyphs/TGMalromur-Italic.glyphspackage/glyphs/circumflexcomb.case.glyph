@@ -1,0 +1,108 @@
+{
+color = 6;
+glyphname = circumflexcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (400,1320);
+},
+{
+name = top;
+pos = (400,1620);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-596,0);
+ref = acutecomb.case;
+},
+{
+alignment = -1;
+pos = (596,0);
+ref = gravecomb.case;
+},
+{
+closed = 1;
+nodes = (
+(433,1620,l),
+(367,1620,l),
+(400,1541,l)
+);
+}
+);
+width = 800;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (400,1320);
+},
+{
+name = top;
+pos = (400,1620);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-646,0);
+ref = acutecomb.case;
+},
+{
+alignment = -1;
+pos = (646,0);
+ref = gravecomb.case;
+},
+{
+closed = 1;
+nodes = (
+(448,1640,l),
+(352,1640,l),
+(400,1524,l)
+);
+}
+);
+width = 800;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (400,1320);
+},
+{
+name = top;
+pos = (400,1620);
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+alignment = -1;
+pos = (-602,0);
+ref = acutecomb.case;
+},
+{
+alignment = -1;
+pos = (602,0);
+ref = gravecomb.case;
+},
+{
+closed = 1;
+nodes = (
+(435,1622,l),
+(365,1622,l),
+(400,1539,l)
+);
+}
+);
+width = 800;
+}
+);
+}

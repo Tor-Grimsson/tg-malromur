@@ -1,0 +1,134 @@
+{
+glyphname = n;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (499,960);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+piece = {
+Height = 100;
+};
+pos = (-288,0);
+ref = _part.stem.lc.hnmri;
+},
+{
+pos = (112,0);
+ref = _part.shoulder.lc;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 998;
+},
+{
+anchors = (
+{
+name = top;
+pos = (624,960);
+}
+);
+layerId = m002;
+metricLeft = "=40";
+metricRight = "=40";
+shapes = (
+{
+alignment = -1;
+piece = {
+Height = 100;
+};
+pos = (-128,0);
+ref = _part.stem.lc.hnmri;
+},
+{
+pos = (272,0);
+ref = _part.shoulder.lc;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1248;
+},
+{
+anchors = (
+{
+name = top;
+pos = (512,960);
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+metricLeft = "=47";
+metricRight = "=47";
+shapes = (
+{
+alignment = -1;
+piece = {
+Height = 100;
+};
+pos = (-271,0);
+ref = _part.stem.lc.hnmri;
+},
+{
+pos = (129,0);
+ref = _part.shoulder.lc;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1025;
+}
+);
+metricLeft = "=48";
+metricRight = "=48";
+unicode = 110;
+}

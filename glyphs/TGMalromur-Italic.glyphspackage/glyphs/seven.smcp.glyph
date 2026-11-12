@@ -1,0 +1,189 @@
+{
+glyphname = seven.smcp;
+kernLeft = zero;
+kernRight = zero;
+layers = (
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,5);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-1.5,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,9);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (245,235,216,255);
+};
+closed = 1;
+nodes = (
+(257,0,l),
+(423,662,o),
+(713,702,o),
+(824,1089,c),
+(244,1088,l),
+(206,955,l),
+(733,955,l),
+(668,730,o),
+(237,498,o),
+(94,0,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 80;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 652;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,5);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,9);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-1.5,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+fillColor = (245,235,216,255);
+};
+closed = 1;
+nodes = (
+(370,0,l),
+(547,674,o),
+(835,718,o),
+(941,1088,c),
+(241,1088,l),
+(175,859,l),
+(786,859,l),
+(756,754,o),
+(240,645,o),
+(55,0,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 80;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 777;
+},
+{
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,5);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-1.5,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,9);
+type = Corner;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+attr = {
+fillColor = (245,235,216,255);
+};
+closed = 1;
+nodes = (
+(269,0,l),
+(437,663,o),
+(726,704,o),
+(837,1089,c),
+(244,1088,l),
+(203,944,l),
+(739,944,l),
+(678,733,o),
+(237,514,o),
+(90,0,c)
+);
+}
+);
+width = 666;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+userData = {
+RMXScaler = {
+source = seven;
+};
+};
+}

@@ -1,0 +1,203 @@
+{
+color = 6;
+glyphname = z.sc;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (444,1000);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+},
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,5);
+type = Cap;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(787,0,l),
+(787,24,l),
+(231,24,l),
+(775,946,l),
+(775,960,l),
+(92,960,l),
+(92,936,l),
+(618,936,l),
+(74,15,l),
+(74,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+width = 82;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 907;
+},
+{
+anchors = (
+{
+name = top;
+pos = (536,1004);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+},
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,5);
+type = Cap;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(963,0,l),
+(963,26,l),
+(425,26,l),
+(952,945,l),
+(952,959,l),
+(100,959,l),
+(100,935,l),
+(609,935,l),
+(82,15,l),
+(82,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+weight = -96;
+width = 82;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1091;
+},
+{
+anchors = (
+{
+name = top;
+pos = (454,1000);
+}
+);
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+},
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,5);
+type = Cap;
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(806,0,l),
+(806,24,l),
+(251,24,l),
+(794,946,l),
+(794,960,l),
+(93,960,l),
+(93,936,l),
+(618,936,l),
+(75,15,l),
+(75,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 75;
+weight = -12;
+width = 82;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 927;
+}
+);
+metricLeft = "=60";
+metricRight = "=80";
+userData = {
+RMXScaler = {
+source = Z;
+};
+};
+}

@@ -1,0 +1,210 @@
+{
+category = "Stem-UC";
+color = 5;
+export = 0;
+glyphname = "_stem.UC-serif-2";
+layers = (
+{
+anchors = (
+{
+name = armbottom;
+pos = (572,0);
+},
+{
+name = armcenter;
+pos = (760,656);
+},
+{
+name = armtop;
+pos = (939,1280);
+},
+{
+name = swash;
+pos = (666,1280);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,600);
+},
+{
+angle = 74;
+pos = (1000,600);
+},
+{
+angle = 74;
+pos = (600,600);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(572,0,l),
+(939,1280,l),
+(795,1280,l),
+(428,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1600;
+},
+{
+anchors = (
+{
+name = armbottom;
+pos = (600,0);
+},
+{
+name = armcenter;
+pos = (788,656);
+},
+{
+name = armtop;
+pos = (967,1280);
+},
+{
+name = swash;
+pos = (494,1280);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (428,600);
+},
+{
+angle = 74;
+pos = (1228,600);
+},
+{
+angle = 74;
+pos = (828,600);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(600,0,l),
+(967,1280,l),
+(623,1280,l),
+(256,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1600;
+},
+{
+anchors = (
+{
+name = armbottom;
+pos = (575,0);
+},
+{
+name = armcenter;
+pos = (763,656);
+},
+{
+name = armtop;
+pos = (942,1280);
+},
+{
+name = swash;
+pos = (647,1280);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(575,0,l),
+(942,1280,l),
+(776,1280,l),
+(409,0,l)
+);
+}
+);
+width = 1600;
+}
+);
+metricWidth = "=1600";
+}

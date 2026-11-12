@@ -1,0 +1,40 @@
+{
+color = 6;
+glyphname = circumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-48,0);
+ref = circumflexcomb;
+}
+);
+width = 704;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+pos = (-42,0);
+ref = circumflexcomb;
+}
+);
+width = 716;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = circumflexcomb;
+}
+);
+width = 804;
+}
+);
+unicode = 710;
+}

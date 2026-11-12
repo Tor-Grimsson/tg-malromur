@@ -1,0 +1,82 @@
+{
+color = 6;
+glyphname = macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (400,960);
+},
+{
+name = top;
+pos = (400,1384);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,1178,l),
+(580,1178,l),
+(580,1222,l),
+(220,1222,l)
+);
+}
+);
+width = 800;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (400,960);
+},
+{
+name = top;
+pos = (400,1384);
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,1176,l),
+(580,1176,l),
+(580,1224,l),
+(220,1224,l)
+);
+}
+);
+width = 800;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (400,960);
+},
+{
+name = top;
+pos = (400,1384);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,1164,l),
+(580,1164,l),
+(580,1236,l),
+(220,1236,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 772;
+}

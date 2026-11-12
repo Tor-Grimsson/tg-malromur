@@ -1,0 +1,211 @@
+{
+glyphname = Z;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (508,1320);
+}
+);
+background = {
+shapes = (
+{
+pos = (1355,0);
+ref = N;
+scale = (-1,1);
+}
+);
+};
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+},
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,5);
+type = Cap;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(917,0,l),
+(917,32,l),
+(237,32,l),
+(903,1261,l),
+(903,1280,l),
+(92,1280,l),
+(92,1248,l),
+(736,1248,l),
+(70,20,l),
+(70,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1037;
+},
+{
+anchors = (
+{
+name = top;
+pos = (616,1320);
+}
+);
+background = {
+shapes = (
+{
+pos = (1363,0);
+ref = N;
+scale = (-1,1);
+}
+);
+};
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+},
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,5);
+type = Cap;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1125,0,l),
+(1125,34,l),
+(466,34,l),
+(1112,1260,l),
+(1112,1279,l),
+(100,1279,l),
+(100,1247,l),
+(723,1247,l),
+(78,20,l),
+(78,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1253;
+},
+{
+anchors = (
+{
+name = top;
+pos = (520,1320);
+}
+);
+background = {
+shapes = (
+{
+pos = (1355,0);
+ref = N;
+scale = (-1,1);
+}
+);
+};
+hints = (
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,0);
+scale = (1,2);
+type = Cap;
+},
+{
+name = _cap.Serif.case.E;
+options = 2;
+origin = (0,5);
+type = Cap;
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(940,0,l),
+(940,32,l),
+(262,32,l),
+(926,1261,l),
+(926,1280,l),
+(93,1280,l),
+(93,1248,l),
+(735,1248,l),
+(71,20,l),
+(71,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1061;
+}
+);
+metricLeft = "=60";
+metricRight = "=80";
+unicode = 90;
+}

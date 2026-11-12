@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = threesuperior;
+kernLeft = sup;
+kernRight = sup;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (26,672);
+ref = three;
+scale = (0.6,0.6);
+}
+);
+width = 599;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+pos = (26,672);
+ref = three;
+scale = (0.6,0.6);
+}
+);
+width = 607;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (26,672);
+ref = three;
+scale = (0.6,0.6);
+}
+);
+width = 667;
+}
+);
+unicode = 179;
+}

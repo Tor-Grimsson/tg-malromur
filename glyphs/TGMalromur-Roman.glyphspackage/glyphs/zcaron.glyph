@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = zcaron;
+kernLeft = z;
+kernRight = z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (13,0);
+ref = caroncomb;
+}
+);
+width = 826;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (18,0);
+ref = caroncomb;
+}
+);
+width = 835;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (56,0);
+ref = caroncomb;
+}
+);
+width = 912;
+}
+);
+unicode = 382;
+}

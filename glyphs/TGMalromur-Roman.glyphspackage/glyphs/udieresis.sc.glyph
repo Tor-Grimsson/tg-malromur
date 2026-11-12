@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = udieresis.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (-35,40);
+ref = dieresiscomb;
+}
+);
+width = 1029;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (-28,40);
+ref = dieresiscomb;
+}
+);
+width = 1038;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (1,44);
+ref = dieresiscomb;
+}
+);
+width = 1069;
+}
+);
+}

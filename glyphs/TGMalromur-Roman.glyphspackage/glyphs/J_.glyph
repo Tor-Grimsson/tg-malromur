@@ -1,0 +1,187 @@
+{
+glyphname = J;
+kernLeft = J;
+kernRight = H;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-493,-454);
+ref = "_part.arm-EFT-bottom";
+}
+);
+};
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,4);
+scale = (-1.2,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,-420,o),
+(269,-169,o),
+(269,60,cs),
+(269,1280,l),
+(125,1280,l),
+(125,-100,ls),
+(125,-344,o),
+(51,-388,o),
+(-48,-388,c),
+(-48,-420,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 461;
+},
+{
+background = {
+shapes = (
+{
+pos = (-346,-452);
+ref = "_part.arm-EFT-bottom";
+}
+);
+};
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,4);
+scale = (-1.2,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(321,-421,o),
+(450,-83,o),
+(450,136,cs),
+(450,1280,l),
+(106,1280,l),
+(106,-174,ls),
+(106,-329,o),
+(51,-381,o),
+(-10,-381,c),
+(-10,-421,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 632;
+},
+{
+background = {
+shapes = (
+{
+pos = (-497,-454);
+ref = "_part.arm-EFT-bottom";
+}
+);
+};
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 2;
+origin = (0,4);
+scale = (-1.2,1);
+type = Corner;
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(192,-420,o),
+(285,-160,o),
+(285,68,cs),
+(285,1280,l),
+(119,1280,l),
+(119,-108,ls),
+(119,-342,o),
+(47,-387,o),
+(-48,-387,c),
+(-48,-420,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 476;
+}
+);
+metricLeft = "=-48";
+metricRight = H;
+unicode = 74;
+}

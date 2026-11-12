@@ -1,0 +1,72 @@
+{
+glyphname = quotesinglbase;
+kernLeft = comma;
+kernRight = comma;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-48,0);
+ref = comma;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 249;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (-50,0);
+ref = comma;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 349;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+pos = (-48,0);
+ref = comma;
+}
+);
+width = 260;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 8218;
+}

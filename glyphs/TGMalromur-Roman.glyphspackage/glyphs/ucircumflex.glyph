@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = ucircumflex;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (62,0);
+ref = circumflexcomb;
+}
+);
+width = 972;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (76,0);
+ref = circumflexcomb;
+}
+);
+width = 999;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (190,0);
+ref = circumflexcomb;
+}
+);
+width = 1222;
+}
+);
+unicode = 251;
+}

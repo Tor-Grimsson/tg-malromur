@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = aring.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (230,40);
+ref = ringcomb;
+}
+);
+width = 911;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (226,40);
+ref = ringcomb;
+}
+);
+width = 901;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (279,44);
+ref = ringcomb;
+}
+);
+width = 1008;
+}
+);
+}

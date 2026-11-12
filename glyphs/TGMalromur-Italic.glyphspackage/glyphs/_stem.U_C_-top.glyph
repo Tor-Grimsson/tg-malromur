@@ -1,0 +1,169 @@
+{
+category = "Stem-UC";
+color = 5;
+export = 0;
+glyphname = "_stem.UC-top";
+layers = (
+{
+anchors = (
+{
+name = "^exit";
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,0);
+},
+{
+angle = 74;
+pos = (600,0);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+scale = (-0.9,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(596,880,l),
+(711,1280,l),
+(567,1280,l),
+(452,880,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+},
+{
+anchors = (
+{
+name = "^exit";
+pos = (200,0);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (200,0);
+},
+{
+angle = 74;
+pos = (600,0);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+scale = (-1,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(785,840,l),
+(911,1280,l),
+(567,1280,l),
+(441,840,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 800;
+},
+{
+anchors = (
+{
+name = "^exit";
+pos = (200,0);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+origin = (0,1);
+scale = (-0.9,-1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(617,876,l),
+(733,1280,l),
+(567,1280,l),
+(451,876,l)
+);
+}
+);
+width = 800;
+}
+);
+metricWidth = "=800";
+}

@@ -1,0 +1,114 @@
+{
+glyphname = strokeshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _strokeshortcomb;
+pos = (100,0);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (100,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1183,1160,l),
+(1192,1192,l),
+(442,1192,l),
+(433,1160,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _strokeshortcomb;
+pos = (100,0);
+}
+);
+guides = (
+{
+angle = 74;
+pos = (100,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1313,1160,l),
+(1322,1192,l),
+(442,1192,l),
+(433,1160,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _strokeshortcomb;
+pos = (100,0);
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1197,1160,l),
+(1206,1192,l),
+(442,1192,l),
+(433,1160,l)
+);
+}
+);
+width = 1200;
+}
+);
+metricWidth = "=1200";
+unicode = 821;
+}

@@ -1,0 +1,188 @@
+{
+color = 3;
+glyphname = u;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (554,964);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(810,-20,o),
+(918,154,o),
+(968,350,c),
+(936,350,l),
+(884,181,o),
+(793,44,o),
+(721,44,cs),
+(673,44,o),
+(655,107,o),
+(683,204,cs),
+(888,920,l),
+(752,920,l),
+(553,225,ls),
+(507,66,o),
+(563,-20,o),
+(665,-20,cs)
+);
+}
+);
+};
+guides = (
+{
+angle = 74;
+pos = (256,920);
+},
+{
+angle = 74;
+pos = (392,920);
+},
+{
+angle = 74;
+pos = (752,920);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (62,0);
+ref = "_part.stem-LC-a";
+},
+{
+pos = (-52,0);
+ref = "_shoulder.LC-u";
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1014;
+},
+{
+anchors = (
+{
+name = top;
+pos = (703,964);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(1120,-20,o),
+(1220,150,o),
+(1281,342,c),
+(1241,342,l),
+(1179,158,o),
+(1067,39,o),
+(1007,39,cs),
+(963,39,o),
+(946,103,o),
+(970,188,cs),
+(1181,920,l),
+(877,920,l),
+(689,266,ls),
+(631,66,o),
+(753,-20,o),
+(906,-20,cs)
+);
+}
+);
+};
+guides = (
+{
+angle = 74;
+pos = (270,765);
+},
+{
+angle = 74;
+pos = (535,765);
+},
+{
+angle = 74;
+pos = (877,920);
+},
+{
+angle = 74;
+pos = (1141,920);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (186,0);
+ref = "_part.stem-LC-a";
+},
+{
+pos = (-50,0);
+ref = "_shoulder.LC-u";
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1278;
+},
+{
+anchors = (
+{
+name = top;
+pos = (570,964);
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+alignment = -1;
+pos = (75,0);
+ref = "_part.stem-LC-a";
+},
+{
+pos = (-52,0);
+ref = "_shoulder.LC-u";
+}
+);
+width = 1042;
+}
+);
+metricLeft = "=|n";
+metricRight = n;
+unicode = 117;
+}

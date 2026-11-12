@@ -1,0 +1,367 @@
+{
+color = 1;
+glyphname = N;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (606,1320);
+}
+);
+background = {
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (1,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (2,1);
+scale = (0.9,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,2);
+scale = (-1.1,1);
+type = Corner;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(782,-20,l),
+(877,310,l),
+(837,310,l),
+(637,1280,l),
+(476,1280,l),
+(467,1248,l),
+(483,1248,l),
+(742,-20,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(109,0,l),
+(476,1280,l),
+(436,1280,l),
+(69,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(788,0,l),
+(1155,1280,l),
+(1115,1280,l),
+(748,0,l)
+);
+}
+);
+};
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (1,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (2,1);
+scale = (0.9,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,2);
+scale = (-1.1,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(782,-20,l),
+(877,310,l),
+(837,310,l),
+(637,1280,l),
+(476,1280,l),
+(467,1248,l),
+(483,1248,l),
+(742,-20,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(109,0,l),
+(476,1280,l),
+(436,1280,l),
+(69,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(788,0,l),
+(1155,1280,l),
+(1115,1280,l),
+(748,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1099;
+},
+{
+anchors = (
+{
+name = top;
+pos = (701,1320);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(930,0,l),
+(1145,748,ls),
+(1210,951,o),
+(1212,1076,o),
+(1194,1160,cs),
+(1175,1253,o),
+(1127,1300,o),
+(1064,1300,cs),
+(988,1300,o),
+(940,1248,o),
+(939,1196,cs),
+(937,1076,o),
+(1198,1070,o),
+(1122,807,cs),
+(890,0,l)
+);
+}
+);
+};
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (1,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (2,1);
+scale = (0.9,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,2);
+scale = (-1.1,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(983,-20,l),
+(1137,515,l),
+(1081,515,l),
+(754,1280,l),
+(466,1280,l),
+(425,1136,l),
+(441,1136,l),
+(943,-20,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(99,0,l),
+(466,1280,l),
+(426,1280,l),
+(59,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(989,0,l),
+(1356,1280,l),
+(1316,1280,l),
+(949,0,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1290;
+},
+{
+anchors = (
+{
+name = top;
+pos = (616,1320);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,0);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,2);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (1,3);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+origin = (2,1);
+scale = (0.9,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (2,2);
+scale = (-1.1,1);
+type = Corner;
+}
+);
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+closed = 1;
+nodes = (
+(804,-20,l),
+(906,333,l),
+(864,333,l),
+(650,1280,l),
+(475,1280,l),
+(462,1236,l),
+(478,1236,l),
+(764,-20,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(108,0,l),
+(475,1280,l),
+(435,1280,l),
+(68,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(810,0,l),
+(1177,1280,l),
+(1137,1280,l),
+(770,0,l)
+);
+}
+);
+width = 1120;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 78;
+}

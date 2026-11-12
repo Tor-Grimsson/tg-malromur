@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = odieresis.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (-110,40);
+ref = dieresiscomb;
+}
+);
+width = 981;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (-97,40);
+ref = dieresiscomb;
+}
+);
+width = 1007;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (11,44);
+ref = dieresiscomb;
+}
+);
+width = 1222;
+}
+);
+}

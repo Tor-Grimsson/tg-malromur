@@ -1,0 +1,19 @@
+{
+color = 6;
+glyphname = nbspace;
+layers = (
+{
+layerId = m01;
+width = 400;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+width = 400;
+},
+{
+layerId = m002;
+width = 400;
+}
+);
+unicode = 160;
+}

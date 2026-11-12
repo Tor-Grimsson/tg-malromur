@@ -1,0 +1,301 @@
+{
+glyphname = u;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (462,960);
+}
+);
+background = {
+shapes = (
+{
+angle = 180;
+pos = (990,920);
+ref = n;
+}
+);
+};
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,0);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-0.8,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x30a7afc90;
+};
+closed = 1;
+nodes = (
+(686,920,l),
+(686,0,l),
+(822,0,l),
+(822,920,l)
+);
+},
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x323b82f80;
+};
+closed = 1;
+nodes = (
+(150,920,l),
+(150,253,ls),
+(150,59,o),
+(261,-20,o),
+(382,-20,cs),
+(510,-20,o),
+(614,60,o),
+(670,154,c),
+(710,154,l),
+(710,338,l),
+(686,338,l),
+(675,176,o),
+(542,44,o),
+(430,44,cs),
+(367,44,o),
+(286,94,o),
+(286,260,cs),
+(286,920,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 972;
+},
+{
+anchors = (
+{
+name = top;
+pos = (590,960);
+}
+);
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,0);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-0.8,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x30a7afc90;
+};
+closed = 1;
+nodes = (
+(776,920,l),
+(776,0,l),
+(1080,0,l),
+(1080,920,l)
+);
+},
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x323b82f80;
+};
+closed = 1;
+nodes = (
+(142,920,l),
+(142,269,ls),
+(142,77,o),
+(251,-20,o),
+(443,-20,cs),
+(601,-20,o),
+(689,42,o),
+(760,154,c),
+(800,154,l),
+(800,338,l),
+(776,338,l),
+(756,174,o),
+(654,52,o),
+(557,52,cs),
+(491,52,o),
+(446,103,o),
+(446,204,cs),
+(446,920,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1222;
+},
+{
+anchors = (
+{
+name = top;
+pos = (476,960);
+}
+);
+background = {
+shapes = (
+{
+angle = 180;
+pos = (989,920);
+ref = n;
+}
+);
+};
+hints = (
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (1,0);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,0);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = "_corner.Serif-diag";
+options = 1;
+origin = (0,2);
+scale = (-0.8,1);
+type = Corner;
+}
+);
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x30a7afc90;
+};
+closed = 1;
+nodes = (
+(696,920,l),
+(696,0,l),
+(850,0,l),
+(850,920,l)
+);
+},
+{
+attr = {
+fillColor = (255,0,255,255);
+identifier = ID0x323b82f80;
+};
+closed = 1;
+nodes = (
+(149,920,l),
+(149,255,ls),
+(149,61,o),
+(260,-20,o),
+(389,-20,cs),
+(520,-20,o),
+(622,58,o),
+(680,154,c),
+(720,154,l),
+(720,338,l),
+(696,338,l),
+(684,176,o),
+(554,45,o),
+(444,45,cs),
+(381,45,o),
+(303,95,o),
+(303,254,cs),
+(303,920,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 999;
+}
+);
+metricLeft = n;
+metricRight = n;
+unicode = 117;
+}

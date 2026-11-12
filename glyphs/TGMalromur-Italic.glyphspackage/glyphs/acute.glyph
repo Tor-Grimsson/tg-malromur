@@ -1,0 +1,40 @@
+{
+color = 6;
+glyphname = acute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-403,0);
+ref = acutecomb;
+}
+);
+width = 537;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-395,0);
+ref = acutecomb;
+}
+);
+width = 593;
+},
+{
+layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+shapes = (
+{
+alignment = -1;
+pos = (-402,0);
+ref = acutecomb;
+}
+);
+width = 543;
+}
+);
+unicode = 180;
+}

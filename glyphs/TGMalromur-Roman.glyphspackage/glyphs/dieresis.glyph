@@ -1,0 +1,40 @@
+{
+color = 6;
+glyphname = dieresis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-264,0);
+ref = dieresiscomb;
+}
+);
+width = 672;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+pos = (-249,0);
+ref = dieresiscomb;
+}
+);
+width = 702;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-128,0);
+ref = dieresiscomb;
+}
+);
+width = 944;
+}
+);
+unicode = 168;
+}

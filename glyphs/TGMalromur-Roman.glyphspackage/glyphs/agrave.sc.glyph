@@ -1,0 +1,45 @@
+{
+color = 6;
+glyphname = agrave.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (56,40);
+ref = gravecomb;
+}
+);
+width = 946;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (62,40);
+ref = gravecomb;
+}
+);
+width = 959;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (115,44);
+ref = gravecomb;
+}
+);
+width = 1065;
+}
+);
+}

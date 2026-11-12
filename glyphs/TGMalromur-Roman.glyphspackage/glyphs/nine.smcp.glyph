@@ -1,0 +1,110 @@
+{
+glyphname = nine.smcp;
+kernLeft = zero;
+kernRight = zero;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (851,1080);
+ref = six.smcp;
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 80;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 851;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1003,1080);
+ref = six.smcp;
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 80;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1003;
+},
+{
+layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (868,1080);
+ref = six.smcp;
+}
+);
+userData = {
+RMXScaler = {
+height = 85;
+width = 80;
+};
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 868;
+}
+);
+metricLeft = "=|six";
+metricRight = "=|six";
+userData = {
+RMXScaler = {
+source = nine;
+};
+};
+}
