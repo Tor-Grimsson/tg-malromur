@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = yacute.sc;
+kernLeft = Y.sc;
+kernRight = Y.sc;
 layers = (
 {
 layerId = m01;

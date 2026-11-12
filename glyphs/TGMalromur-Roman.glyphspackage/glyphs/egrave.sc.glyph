@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = egrave.sc;
+kernLeft = H.sc;
+kernRight = E.sc;
 layers = (
 {
 layerId = m01;

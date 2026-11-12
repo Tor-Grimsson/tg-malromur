@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = z.sc;
-kernLeft = Z;
-kernRight = Z;
+kernLeft = Z.sc;
+kernRight = Z.sc;
 layers = (
 {
 anchors = (
@@ -27,6 +27,8 @@ type = Cap;
 }
 );
 layerId = m01;
+metricLeft = "=60";
+metricRight = "=80";
 shapes = (
 {
 closed = 1;
@@ -89,6 +91,8 @@ type = Cap;
 }
 );
 layerId = m002;
+metricLeft = "=60";
+metricRight = "=80";
 shapes = (
 {
 closed = 1;
@@ -152,6 +156,8 @@ type = Cap;
 }
 );
 layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+metricLeft = "=60";
+metricRight = "=80";
 shapes = (
 {
 closed = 1;
@@ -193,8 +199,6 @@ com.hugojourdan.ColorFlow = {
 width = 927;
 }
 );
-metricLeft = "=60";
-metricRight = "=80";
 userData = {
 RMXScaler = {
 source = Z;

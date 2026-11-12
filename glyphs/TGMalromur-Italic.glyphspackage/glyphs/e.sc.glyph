@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = e.sc;
-kernLeft = H;
-kernRight = E;
+kernLeft = H.sc;
+kernRight = E.sc;
 layers = (
 {
 anchors = (
@@ -12,6 +12,7 @@ pos = (622,1000);
 }
 );
 layerId = m01;
+metricRight = "=52";
 shapes = (
 {
 closed = 1;
@@ -106,6 +107,7 @@ pos = (740,1004);
 }
 );
 layerId = m002;
+metricRight = "=52";
 shapes = (
 {
 closed = 1;
@@ -201,6 +203,7 @@ pos = (637,1000);
 }
 );
 layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+metricRight = "=52";
 shapes = (
 {
 closed = 1;
@@ -275,8 +278,7 @@ width = 82;
 width = 903;
 }
 );
-metricLeft = H;
-metricRight = "=52";
+metricLeft = h.sc;
 userData = {
 RMXScaler = {
 source = E;

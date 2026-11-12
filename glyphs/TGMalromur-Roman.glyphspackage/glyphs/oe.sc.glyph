@@ -1,11 +1,13 @@
 {
 color = 6;
 glyphname = oe.sc;
-kernLeft = O;
-kernRight = E;
+kernLeft = O.sc;
+kernRight = E.sc;
 layers = (
 {
 layerId = m01;
+metricLeft = "=68";
+metricRight = "=79";
 shapes = (
 {
 closed = 1;
@@ -82,6 +84,8 @@ width = 1167;
 },
 {
 layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+metricLeft = "=67";
+metricRight = "=79";
 shapes = (
 {
 closed = 1;
@@ -159,6 +163,8 @@ width = 1206;
 },
 {
 layerId = m002;
+metricLeft = "=59";
+metricRight = "=79";
 shapes = (
 {
 closed = 1;

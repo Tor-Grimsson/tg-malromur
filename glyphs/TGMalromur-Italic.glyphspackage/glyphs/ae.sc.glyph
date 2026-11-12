@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = ae.sc;
-kernLeft = A;
-kernRight = E;
+kernLeft = A.sc;
+kernRight = E.sc;
 layers = (
 {
 layerId = m01;
@@ -248,8 +248,8 @@ width = 82;
 width = 1336;
 }
 );
-metricLeft = V;
-metricRight = E;
+metricLeft = v.sc;
+metricRight = e.sc;
 userData = {
 RMXScaler = {
 source = AE;

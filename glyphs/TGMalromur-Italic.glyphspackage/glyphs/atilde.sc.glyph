@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = atilde.sc;
+kernLeft = A.sc;
+kernRight = A.sc;
 layers = (
 {
 layerId = m01;
@@ -22,11 +24,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (226,40);
+pos = (237,40);
 ref = tildecomb;
 }
 );
-width = 901;
+width = 924;
 },
 {
 layerId = m002;
@@ -35,11 +37,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (279,44);
+pos = (290,44);
 ref = tildecomb;
 }
 );
-width = 1008;
+width = 1030;
 }
 );
 }

@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = h.sc;
-kernLeft = H;
-kernRight = H;
+kernLeft = H.sc;
+kernRight = H.sc;
 layers = (
 {
 hints = (
@@ -59,6 +59,8 @@ type = Corner;
 }
 );
 layerId = m01;
+metricLeft = "=64";
+metricRight = "=64";
 shapes = (
 {
 closed = 1;
@@ -368,8 +370,6 @@ width = 82;
 width = 1082;
 }
 );
-metricLeft = "=64";
-metricRight = "=64";
 userData = {
 RMXScaler = {
 source = H;

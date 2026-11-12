@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = eth.sc;
-kernLeft = H;
-kernRight = O;
+kernLeft = H.sc;
+kernRight = O.sc;
 layers = (
 {
 hints = (
@@ -236,8 +236,8 @@ width = 82;
 width = 1019;
 }
 );
-metricLeft = D;
-metricRight = O;
+metricLeft = d.sc;
+metricRight = o.sc;
 userData = {
 RMXScaler = {
 source = Eth;

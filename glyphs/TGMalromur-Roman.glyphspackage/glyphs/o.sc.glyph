@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = o.sc;
-kernLeft = O;
-kernRight = O;
+kernLeft = O.sc;
+kernRight = O.sc;
 layers = (
 {
 anchors = (
@@ -16,6 +16,8 @@ pos = (490,1000);
 }
 );
 layerId = m01;
+metricLeft = "=84";
+metricRight = "=84";
 shapes = (
 {
 closed = 1;
@@ -221,8 +223,6 @@ com.hugojourdan.ColorFlow = {
 width = 1007;
 }
 );
-metricLeft = "=84";
-metricRight = "=84";
 userData = {
 RMXScaler = {
 source = O;

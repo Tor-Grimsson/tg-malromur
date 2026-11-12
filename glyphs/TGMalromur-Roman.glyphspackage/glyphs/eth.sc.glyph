@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = eth.sc;
-kernLeft = H;
-kernRight = O;
+kernLeft = H.sc;
+kernRight = O.sc;
 layers = (
 {
 hints = (
@@ -250,8 +250,8 @@ com.hugojourdan.ColorFlow = {
 width = 1004;
 }
 );
-metricLeft = D;
-metricRight = O;
+metricLeft = d.sc;
+metricRight = o.sc;
 userData = {
 RMXScaler = {
 source = Eth;

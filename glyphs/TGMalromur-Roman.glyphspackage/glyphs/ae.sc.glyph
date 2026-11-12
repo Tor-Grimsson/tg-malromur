@@ -1,11 +1,12 @@
 {
 color = 6;
 glyphname = ae.sc;
-kernLeft = A;
-kernRight = E;
+kernLeft = A.sc;
+kernRight = E.sc;
 layers = (
 {
 layerId = m01;
+metricLeft = "=-16";
 shapes = (
 {
 closed = 1;
@@ -91,6 +92,7 @@ width = 1373;
 },
 {
 layerId = m002;
+metricLeft = "=-16";
 shapes = (
 {
 closed = 1;
@@ -177,6 +179,7 @@ width = 1548;
 },
 {
 layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+metricLeft = "=-16";
 shapes = (
 {
 closed = 1;
@@ -262,8 +265,7 @@ com.hugojourdan.ColorFlow = {
 width = 1392;
 }
 );
-metricLeft = "=-16";
-metricRight = E;
+metricRight = e.sc;
 userData = {
 RMXScaler = {
 source = AE;

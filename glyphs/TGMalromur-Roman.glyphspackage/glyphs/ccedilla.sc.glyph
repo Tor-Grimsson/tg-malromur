@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = ccedilla.sc;
+kernLeft = O.sc;
+kernRight = C.sc;
 layers = (
 {
 layerId = m01;
@@ -9,7 +11,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (51,0);
+pos = (86,0);
 ref = cedillacomb;
 }
 );
@@ -22,7 +24,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (61,0);
+pos = (98,0);
 ref = cedillacomb;
 }
 );
@@ -35,7 +37,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (152,0);
+pos = (200,0);
 ref = cedillacomb;
 }
 );

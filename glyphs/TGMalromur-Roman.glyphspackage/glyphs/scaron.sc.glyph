@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = scaron.sc;
+kernLeft = S.sc;
+kernRight = S.sc;
 layers = (
 {
 layerId = m01;

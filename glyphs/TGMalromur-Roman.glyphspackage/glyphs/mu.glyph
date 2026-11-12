@@ -9,58 +9,51 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
+pos = (26,0);
 ref = u;
 },
 {
-closed = 1;
-nodes = (
-(48,-420,l),
-(184,-420,l),
-(184,300,l),
-(48,300,l)
-);
+alignment = -1;
+pos = (-424,0);
+ref = "_part.stem-LC-pq";
 }
 );
-width = 972;
+width = 998;
 },
 {
 layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
 shapes = (
 {
 alignment = -1;
+pos = (26,0);
 ref = u;
 },
 {
-closed = 1;
-nodes = (
-(47,-420,l),
-(201,-420,l),
-(201,300,l),
-(47,300,l)
-);
+alignment = -1;
+pos = (-425,0);
+ref = "_part.stem-LC-pq";
 }
 );
-width = 999;
+width = 1025;
 },
 {
 layerId = m002;
 shapes = (
 {
 alignment = -1;
+pos = (26,0);
 ref = u;
 },
 {
-closed = 1;
-nodes = (
-(40,-420,l),
-(344,-420,l),
-(344,300,l),
-(40,300,l)
-);
+alignment = -1;
+pos = (-432,0);
+ref = "_part.stem-LC-pq";
 }
 );
-width = 1222;
+width = 1248;
 }
 );
+metricLeft = u;
+metricRight = u;
 unicode = 181;
 }

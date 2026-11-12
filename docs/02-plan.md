@@ -25,7 +25,14 @@ related:
 # Plan — TG Málrómur Roman
 
 **Raised:** 2026-11-12, from [[01-evaluation|the 2026-11-12 evaluation]]. Follows `docs/operations/02-family-pipeline.md` step 2. Roman only; the Italic follows as its own pass, with the same workstreams. Points verbatim, 2026-11-12: *"I think they just mean that they dont scale they are light in both light and black."* (the red tags) · *"But what about the weights are they correct?"*
-**Status:** W1 built and saved; W2–W6 first pass built 2026-11-12, unsaved, see [[03-first-pass|first pass]]. Open: his review of the first pass; Ø ø Œ œ to draw; W7 small caps (his RMX step).
+**Status:** W1 built and saved; W2–W6 first pass built 2026-11-12, see [[03-first-pass|first pass]]. W7 small caps built and kerned 2026-11-12. Exported 2026-11-12: two VFs, 14 static OTFs, WOFF2, the four family PDFs; collected. Open items: `OPEN.md`.
+
+**Second pass, 2026-11-12 (saved):**
+- **Metrics sync** (playbook § 3, now on Glyphs' own `metricsKeysOutOfSync`): Roman clean; Italic `… ¿ · • # / \` 1 unit off their hyphen key in Regular/Black, synced. The "133 small caps" in the first-pass note did not reproduce.
+- **ƒ** (Roman): `_ball.LC-curve-j` (f's top) + f's crossbar + `jdotless` (descender and hook), stems aligned at mid x-height, slanted 10° about it; keys `jdotless` | `f`. The Italic ƒ stays the italic f, which already ends in j's hook.
+- **µ**: `u` + p's stem part on u's left stem (`_part.stem-LC-pq` Roman, `_part.stem-LC-p` Italic); keys `u` | `u`. Roman VF instance: `mu` added to `Decompose Glyphs` (its stem part is a smart component).
+- **ẞ.sc** (`germandbls.sc`): from ẞ through RMX Scaler, Width 82 % · Height 75 % · Weight 0 / −12 / −96 (his run); stems equal `h.sc`. Keys `h.sc` | `b.sc` (Roman), `h.sc` | `g.sc` (Italic), as ẞ is keyed to B / G. In `smcp` and `c2sc`.
+- **`c_t` Light**: the swash's two base points sat exactly on the c's ball (738,782 and 846,707 vs 846,708), which broke remove-overlap at static export. Both moved 4 units down into the ball; Light only.
 **Shape:** W › phase › list.
 **Laws carried:** the work is done through the Glyphs MCP on `glyphs/TGMalromur-Roman.glyphspackage`. Nothing is saved without his word, and every edit is previewed first. From W1 on there are three masters (Light `m01`, Regular, Black `m002`), and they are edited together. Kerning is measured from the font's own outlines, never copied (ARCHITECTURE §7). His drawings are never replaced. Any change to an outline is checked in a render before it is shown.
 **How a phase closes:** the measurable acceptance line comes first and is read back through the MCP, or from the exported font with fontTools. Then he looks at the result in Glyphs. A font has no page, so there is no Playwright step.
@@ -143,6 +150,13 @@ This is the Gullhamrar route, done in Glyphs with no build script.
 - He reviews them in Glyphs before anything is kept.
 - **Acceptance:** every exporting capital has a `.smcp` glyph in all masters. Its height equals the small-cap height ±2, its vertical stem is within ±5% of `n`'s stem in that master, and `smcp` and `c2sc` compile with all of them.
 
-### 7.2 — Spacing and kerning
+### 7.2 — Spacing and kerning — ✅ kerning built 2026-11-12
 - The small caps take metrics keys from their capitals scaled, and kerning groups of their own (`@A.smcp`…), measured as in W3.
 - **Acceptance:** every `.smcp` glyph has both kerning groups, and the round, straight and diagonal group pairs have a value or a deliberate zero in all masters.
+- **Built:** the base small caps carried the capitals' groups (A, H, O…), so capital pairs applied to them at cap size and the accented ones had none. Every `.sc` glyph now has `.sc` groups (`A.sc`, `H.sc`…; accented ones follow their base). Kerning measured with the W3 method, small caps as their own case against `h.sc`: small cap · small cap, capital · small cap, small caps · punctuation. Roman 811 / 810 / 843 pairs, Italic 828 / 825 / 846 (Light / Regular / Black); existing pairs untouched.
+- **Keys, 2026-11-12:** the 31 base small caps in both styles are on metrics keys mirroring their capitals: a capital key naming glyphs becomes the same key on small caps (`H` → `h.sc`, `=|V` → `=|v.sc`), and a capital's number key becomes a per-master number key at the small cap's own value. Nothing moved; Glyphs' out-of-sync count is zero in both fonts, so the exports, kerning and PDFs stand.
+
+## Cedilla — 2026-11-12
+
+- The cedilla was a comma shape. Replaced with Rót's cedilla (Light ← Rót Thin, Regular ← Regular, Black ← Black; Italic from Rót Italic), scaled evenly to hang +10 → −267 (*Marks below*). Bottom anchors of C c c.sc moved to the x of the bowl's lowest point (the perceived centre; Italic moved 100–190 left). Light blue.
+- Update Metrics on every master (nothing moved), saved, VFs + 14 statics + WOFF2 re-exported, four PDFs, collected. Old set in `_tmp/2026-11-12-export-before-cedilla/`, old proofs in `_tmp/2026-11-12-proofs-before-cedilla/`.

@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = aacute.sc;
+kernLeft = A.sc;
+kernRight = A.sc;
 layers = (
 {
 layerId = m01;
@@ -22,11 +24,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (83,40);
+pos = (94,40);
 ref = acutecomb;
 }
 );
-width = 901;
+width = 924;
 },
 {
 layerId = m002;
@@ -35,11 +37,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (136,44);
+pos = (147,44);
 ref = acutecomb;
 }
 );
-width = 1008;
+width = 1030;
 }
 );
 }

@@ -12,13 +12,9 @@ alignment = -1;
 ref = u;
 },
 {
-closed = 1;
-nodes = (
-(-12,-420,l),
-(124,-420,l),
-(124,300,l),
-(-12,300,l)
-);
+alignment = -1;
+pos = (-722.069,0);
+ref = "_part.stem-LC-p";
 }
 );
 width = 1014;
@@ -31,13 +27,9 @@ alignment = -1;
 ref = u;
 },
 {
-closed = 1;
-nodes = (
-(-10,-420,l),
-(294,-420,l),
-(294,300,l),
-(-10,300,l)
-);
+alignment = -1;
+pos = (-720.145,0);
+ref = "_part.stem-LC-p";
 }
 );
 width = 1278;
@@ -50,17 +42,15 @@ alignment = -1;
 ref = u;
 },
 {
-closed = 1;
-nodes = (
-(-12,-420,l),
-(142,-420,l),
-(142,300,l),
-(-12,300,l)
-);
+alignment = -1;
+pos = (-722.365,0);
+ref = "_part.stem-LC-p";
 }
 );
 width = 1042;
 }
 );
+metricLeft = u;
+metricRight = u;
 unicode = 181;
 }

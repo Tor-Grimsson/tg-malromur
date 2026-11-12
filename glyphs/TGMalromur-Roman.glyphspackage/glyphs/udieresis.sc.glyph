@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = udieresis.sc;
+kernLeft = H.sc;
+kernRight = U.sc;
 layers = (
 {
 layerId = m01;

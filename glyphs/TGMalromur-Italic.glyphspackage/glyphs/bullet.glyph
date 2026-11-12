@@ -55,7 +55,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 464;
+width = 465;
 },
 {
 layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
@@ -66,7 +66,7 @@ ref = period;
 scale = (1.5,1.5);
 }
 );
-width = 330;
+width = 331;
 }
 );
 metricLeft = hyphen;

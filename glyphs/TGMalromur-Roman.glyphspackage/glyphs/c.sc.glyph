@@ -1,14 +1,14 @@
 {
 color = 6;
 glyphname = c.sc;
-kernLeft = O;
-kernRight = C;
+kernLeft = O.sc;
+kernRight = C.sc;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (451,0);
+pos = (486,0);
 },
 {
 name = top;
@@ -16,6 +16,7 @@ pos = (451,1000);
 }
 );
 layerId = m01;
+metricRight = "=80";
 shapes = (
 {
 closed = 1;
@@ -79,7 +80,7 @@ width = 898;
 anchors = (
 {
 name = bottom;
-pos = (552,0);
+pos = (600,0);
 },
 {
 name = top;
@@ -87,6 +88,7 @@ pos = (552,1004);
 }
 );
 layerId = m002;
+metricRight = "=80";
 shapes = (
 {
 closed = 1;
@@ -151,7 +153,7 @@ width = 1111;
 anchors = (
 {
 name = bottom;
-pos = (461,0);
+pos = (498,0);
 },
 {
 name = top;
@@ -159,6 +161,7 @@ pos = (461,1000);
 }
 );
 layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+metricRight = "=80";
 shapes = (
 {
 closed = 1;
@@ -220,8 +223,7 @@ com.hugojourdan.ColorFlow = {
 width = 921;
 }
 );
-metricLeft = O;
-metricRight = "=80";
+metricLeft = o.sc;
 userData = {
 RMXScaler = {
 source = C;

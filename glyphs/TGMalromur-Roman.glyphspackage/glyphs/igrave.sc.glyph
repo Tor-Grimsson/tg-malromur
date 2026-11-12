@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = igrave.sc;
+kernLeft = H.sc;
+kernRight = H.sc;
 layers = (
 {
 layerId = m01;

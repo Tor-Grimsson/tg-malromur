@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = icircumflex.sc;
+kernLeft = H.sc;
+kernRight = H.sc;
 layers = (
 {
 layerId = m01;
@@ -22,11 +24,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (15,40);
+pos = (52,40);
 ref = circumflexcomb;
 }
 );
-width = 480;
+width = 554;
 },
 {
 layerId = m002;
@@ -35,11 +37,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (84,44);
+pos = (119,44);
 ref = circumflexcomb;
 }
 );
-width = 615;
+width = 686;
 }
 );
 }

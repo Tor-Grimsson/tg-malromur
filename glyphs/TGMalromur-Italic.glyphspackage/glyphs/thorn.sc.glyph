@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = thorn.sc;
-kernLeft = H;
-kernRight = P;
+kernLeft = H.sc;
+kernRight = P.sc;
 layers = (
 {
 hints = (
@@ -248,8 +248,8 @@ width = 82;
 width = 892;
 }
 );
-metricLeft = H;
-metricRight = P;
+metricLeft = h.sc;
+metricRight = p.sc;
 userData = {
 RMXScaler = {
 source = Thorn;

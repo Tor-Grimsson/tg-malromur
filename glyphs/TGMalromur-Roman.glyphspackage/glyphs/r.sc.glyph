@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = r.sc;
-kernLeft = H;
-kernRight = R;
+kernLeft = H.sc;
+kernRight = R.sc;
 layers = (
 {
 hints = (
@@ -33,6 +33,7 @@ type = Corner;
 }
 );
 layerId = m01;
+metricRight = "=-40";
 shapes = (
 {
 closed = 1;
@@ -142,6 +143,7 @@ type = Corner;
 }
 );
 layerId = m002;
+metricRight = "=-40";
 shapes = (
 {
 closed = 1;
@@ -252,6 +254,7 @@ type = Corner;
 }
 );
 layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+metricRight = "=-40";
 shapes = (
 {
 closed = 1;
@@ -334,8 +337,7 @@ com.hugojourdan.ColorFlow = {
 width = 957;
 }
 );
-metricLeft = H;
-metricRight = "=-40";
+metricLeft = h.sc;
 userData = {
 RMXScaler = {
 source = R;

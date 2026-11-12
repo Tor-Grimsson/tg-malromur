@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = odieresis.sc;
+kernLeft = O.sc;
+kernRight = O.sc;
 layers = (
 {
 layerId = m01;

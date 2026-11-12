@@ -36,11 +36,10 @@ width = 384;
 layerId = m002;
 shapes = (
 {
-pos = (158,0);
+pos = (161,0);
 ref = quotesingle;
 },
 {
-pos = (-3,0);
 ref = quotesingle;
 }
 );

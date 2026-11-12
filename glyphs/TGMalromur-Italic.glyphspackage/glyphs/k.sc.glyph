@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = k.sc;
-kernLeft = H;
-kernRight = K;
+kernLeft = H.sc;
+kernRight = K.sc;
 layers = (
 {
 hints = (
@@ -33,6 +33,7 @@ type = Corner;
 }
 );
 layerId = m01;
+metricRight = "=12";
 shapes = (
 {
 closed = 1;
@@ -149,6 +150,7 @@ type = Corner;
 }
 );
 layerId = m002;
+metricRight = "=12";
 shapes = (
 {
 closed = 1;
@@ -266,6 +268,7 @@ type = Corner;
 }
 );
 layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+metricRight = "=12";
 shapes = (
 {
 closed = 1;
@@ -341,8 +344,7 @@ width = 82;
 width = 1045;
 }
 );
-metricLeft = H;
-metricRight = "=12";
+metricLeft = h.sc;
 userData = {
 RMXScaler = {
 source = K;

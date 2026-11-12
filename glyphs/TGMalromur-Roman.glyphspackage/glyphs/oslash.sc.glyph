@@ -1,11 +1,13 @@
 {
 color = 6;
 glyphname = oslash.sc;
-kernLeft = O;
-kernRight = O;
+kernLeft = O.sc;
+kernRight = O.sc;
 layers = (
 {
 layerId = m01;
+metricLeft = "=68";
+metricRight = "=68";
 shapes = (
 {
 closed = 1;
@@ -61,6 +63,8 @@ width = 949;
 },
 {
 layerId = "B7219D04-CBDC-4374-872C-ACC2B297AAA4";
+metricLeft = "=67";
+metricRight = "=67";
 shapes = (
 {
 closed = 1;
@@ -117,6 +121,8 @@ width = 975;
 },
 {
 layerId = m002;
+metricLeft = "=59";
+metricRight = "=59";
 shapes = (
 {
 closed = 1;

@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = zcaron.sc;
+kernLeft = Z.sc;
+kernRight = Z.sc;
 layers = (
 {
 layerId = m01;

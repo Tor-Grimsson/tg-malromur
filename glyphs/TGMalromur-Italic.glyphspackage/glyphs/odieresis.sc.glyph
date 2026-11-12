@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = odieresis.sc;
+kernLeft = O.sc;
+kernRight = O.sc;
 layers = (
 {
 layerId = m01;
@@ -22,11 +24,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (113,40);
+pos = (130,40);
 ref = dieresiscomb;
 }
 );
-width = 981;
+width = 1014;
 },
 {
 layerId = m002;
@@ -35,11 +37,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (33,44);
+pos = (48,44);
 ref = dieresiscomb;
 }
 );
-width = 1198;
+width = 1228;
 }
 );
 }

@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = g.sc;
-kernLeft = O;
-kernRight = G;
+kernLeft = O.sc;
+kernRight = G.sc;
 layers = (
 {
 hints = (
@@ -258,8 +258,8 @@ com.hugojourdan.ColorFlow = {
 width = 1005;
 }
 );
-metricLeft = O;
-metricRight = C;
+metricLeft = o.sc;
+metricRight = c.sc;
 userData = {
 RMXScaler = {
 source = G;

@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = w.sc;
-kernLeft = V;
-kernRight = V;
+kernLeft = V.sc;
+kernRight = V.sc;
 layers = (
 {
 hints = (
@@ -305,8 +305,8 @@ width = 82;
 width = 1324;
 }
 );
-metricLeft = V;
-metricRight = V;
+metricLeft = v.sc;
+metricRight = v.sc;
 userData = {
 RMXScaler = {
 source = W;

@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = ograve.sc;
+kernLeft = O.sc;
+kernRight = O.sc;
 layers = (
 {
 layerId = m01;
@@ -22,11 +24,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (266,40);
+pos = (283,40);
 ref = gravecomb;
 }
 );
-width = 981;
+width = 1014;
 },
 {
 layerId = m002;
@@ -35,11 +37,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (376,44);
+pos = (391,44);
 ref = gravecomb;
 }
 );
-width = 1198;
+width = 1228;
 }
 );
 }

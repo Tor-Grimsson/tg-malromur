@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = q.sc;
-kernLeft = O;
-kernRight = O;
+kernLeft = O.sc;
+kernRight = O.sc;
 layers = (
 {
 layerId = m01;
@@ -302,8 +302,8 @@ width = 82;
 width = 1099;
 }
 );
-metricLeft = O;
-metricRight = O;
+metricLeft = o.sc;
+metricRight = o.sc;
 userData = {
 RMXScaler = {
 source = Q;

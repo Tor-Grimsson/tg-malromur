@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = j.sc;
-kernLeft = J;
-kernRight = H;
+kernLeft = J.sc;
+kernRight = H.sc;
 layers = (
 {
 hints = (
@@ -27,6 +27,8 @@ type = Cap;
 }
 );
 layerId = m01;
+metricLeft = "=-196";
+metricRight = "=-12";
 shapes = (
 {
 closed = 1;
@@ -83,6 +85,8 @@ type = Corner;
 }
 );
 layerId = m002;
+metricLeft = "=-196";
+metricRight = "=-12";
 shapes = (
 {
 closed = 1;
@@ -140,6 +144,8 @@ type = Cap;
 }
 );
 layerId = "591D4077-8758-4D84-B668-B0B1FF554F48";
+metricLeft = "=-196";
+metricRight = "=-12";
 shapes = (
 {
 closed = 1;
@@ -161,8 +167,6 @@ width = 82;
 width = 405;
 }
 );
-metricLeft = "=-196";
-metricRight = "=-12";
 subCategory = "";
 userData = {
 RMXScaler = {

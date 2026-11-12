@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = o.sc;
-kernLeft = O;
-kernRight = O;
+kernLeft = O.sc;
+kernRight = O.sc;
 layers = (
 {
 anchors = (
@@ -16,6 +16,8 @@ pos = (671,1000);
 }
 );
 layerId = m01;
+metricLeft = "=88";
+metricRight = "=88";
 shapes = (
 {
 closed = 1;
@@ -207,8 +209,6 @@ width = 82;
 width = 1014;
 }
 );
-metricLeft = "=88";
-metricRight = "=88";
 userData = {
 RMXScaler = {
 source = O;

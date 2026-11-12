@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = icircumflex.sc;
+kernLeft = H.sc;
+kernRight = H.sc;
 layers = (
 {
 layerId = m01;

@@ -1,6 +1,8 @@
 {
 color = 6;
 glyphname = edieresis.sc;
+kernLeft = H.sc;
+kernRight = E.sc;
 layers = (
 {
 layerId = m01;
@@ -22,11 +24,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (47,40);
+pos = (84,40);
 ref = dieresiscomb;
 }
 );
-width = 850;
+width = 903;
 },
 {
 layerId = m002;
@@ -35,11 +37,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (-38,44);
+pos = (-3,44);
 ref = dieresiscomb;
 }
 );
-width = 1060;
+width = 1118;
 }
 );
 }
